@@ -12,7 +12,7 @@ import java.util.function.Supplier;
 
 public class WebDriverProvider implements Supplier<WebDriver> {
 
-//        private HugeWebDriverConfig config;
+    //        private HugeWebDriverConfig config;
     private WebDriverConfig config;
 
     public WebDriverProvider() {
