@@ -3,7 +3,7 @@ package gmail.salokin1991.hw.config;
 import org.aeonbits.owner.Config;
 
 @Config.Sources({
-        "file:/E:/Курсы/QA/ДЗ/15/token.properties",
+        "file:C:/Windows/Temp/token.properties",
         "classpath:token.properties"
 })
 public interface APIConfig extends Config {
